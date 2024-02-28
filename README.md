@@ -1,2 +1,4 @@
-# school-web
-学校课程练习
+# 学校课程练习
+* asp.net配置
+  * vscode
+  * visual studio
