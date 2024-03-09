@@ -1,0 +1,7 @@
+D:\code\school-web\WebApplication1\bin\Release\net8.0\publish\WebApplication1.exe
+D:\code\school-web\WebApplication1\bin\Release\net8.0\publish\appsettings.Development.json
+D:\code\school-web\WebApplication1\bin\Release\net8.0\publish\appsettings.json
+D:\code\school-web\WebApplication1\bin\Release\net8.0\publish\WebApplication1.dll
+D:\code\school-web\WebApplication1\bin\Release\net8.0\publish\WebApplication1.deps.json
+D:\code\school-web\WebApplication1\bin\Release\net8.0\publish\WebApplication1.runtimeconfig.json
+D:\code\school-web\WebApplication1\bin\Release\net8.0\publish\WebApplication1.pdb

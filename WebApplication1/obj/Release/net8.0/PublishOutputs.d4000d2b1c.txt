@@ -1,0 +1,7 @@
+D:\code\school-web\WebApplication1\aaa\WebApplication1.exe
+D:\code\school-web\WebApplication1\aaa\appsettings.Development.json
+D:\code\school-web\WebApplication1\aaa\appsettings.json
+D:\code\school-web\WebApplication1\aaa\WebApplication1.dll
+D:\code\school-web\WebApplication1\aaa\WebApplication1.deps.json
+D:\code\school-web\WebApplication1\aaa\WebApplication1.runtimeconfig.json
+D:\code\school-web\WebApplication1\aaa\WebApplication1.pdb
