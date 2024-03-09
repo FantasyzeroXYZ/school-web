@@ -1,6 +1,13 @@
 # 学校课程练习
 * asp.net配置
   * vscode
+    * 插件
+      * C# Dev Kit
+    * .NET
+      * 官网 https://dotnet.microsoft.com/zh-cn/
+      * 安装
+    * 创建.NET项目
+      * >.NET: Project
   * visual studio
 * ASP.NET Core应用发布
   * 参考
