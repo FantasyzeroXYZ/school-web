@@ -3,6 +3,7 @@
   * vscode
     * 插件
       * C# Dev Kit
+      * vscode-solution-explorer
     * 安装.NET
       * 官网 https://dotnet.microsoft.com/zh-cn/
       * SDK安装
@@ -13,8 +14,12 @@
         * 输入`.NET: Project`
         * 选择要创建项目的类型
         * 为项目命名
-      * 命令行操作方式
-        * 
+      * [ ] 命令行操作方式
+        * 查看.NET版本`dotnet --version`
+        * dotnet new console
+        * 创建项目`dotnet new`
+        * 运行项目`dotnet run`
+        * 命令将部署 MyApp 项目到本地文件系统：`dotnet publish -o 文件路径`
   * visual studio
 * ASP.NET Core应用发布
   * 参考
