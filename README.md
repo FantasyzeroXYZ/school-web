@@ -29,7 +29,8 @@
         * `dotnet publish -o 文件路径`
   * visual studio
     * 官网 https://visualstudio.microsoft.com/zh-hans/
-    * [ ] 安装
+    * 安装
+      * 在`工作负荷->Web和云`下面勾选`ASP.NET和Web开发`
     * 创建新项目
       * 选择`ASP.NET Web应用程序(.NET Framework)`
       * 设置项目路径以及选择框架
