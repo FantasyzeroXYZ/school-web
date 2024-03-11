@@ -1,4 +1,12 @@
 # 学校课程练习
+* C#
+  * 文档
+    * C#教程 https://learn.microsoft.com/zh-cn/dotnet/csharp/tour-of-csharp/
+  * 交互式编程
+    * vscode插件：`Polyglot Notebooks`
+      * 需要安装`.NET`环境，已安装可跳过
+      * 创建ipynb文件
+      * 右上角选择内核`.NET interactive`
 * asp.net配置
   * vscode
     * 插件
