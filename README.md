@@ -7,6 +7,11 @@
       * 需要安装`.NET`环境，已安装可跳过
       * 创建ipynb文件
       * 右上角选择内核`.NET interactive`
+* .NET
+  * Awesome .NET! https://github.com/quozd/awesome-dotnet
+  * DotNet 资源大全中文版 https://github.com/jobbole/awesome-dotnet-cn
+  * Awesome .NET Core https://github.com/thangchung/awesome-dotnet-core
+  * awesome-dotnet-core中文版 https://github.com/jasonhua95/awesome-dotnet-core
 * asp.net配置
   * vscode
     * 插件
