@@ -1,3 +1,11 @@
+# 待办
+* [ ] vscode配置sql
+* [ ] 了解
+  * [ ] PHP
+  * [ ] JQuery
+  * [ ] ajax
+* [ ] 配合bootstrap
+
 # 学校课程练习
 * C#
   * 文档
@@ -78,6 +86,31 @@
           * 使用此功能指定当客户瑞未请求特定文件名时返回的默认文件。按优先级顺序设置默认文档。
           * 设置自定义文件为默认需要用此设置
           * 参考 https://blog.csdn.net/Helloxiaovv/article/details/104322377
+* visual studio使用
+  * 注释
+    * 默认先按`Ctrl + K`,然后再按`Ctrl + C`
+    * 修改注释的快捷键
+      1. 上方菜单栏->工具->选项
+      2. 环境->键盘,在`显示命令包含:`的搜索栏里搜索`注释`
+      3. 选择`编辑.注释选定内容`
+      4. 修改快捷键
+  * [ ] 语法提示
+  * [ ] 配置github版本管理
+  * 调试
+    1. 上方菜单栏`解决方案配置`选择`debug`
+    2. 选择浏览器运行
+    3. 然后可以边修改代码边刷新网页查看变化
+  * 扩展插件
+    * Extensions for Visual Studio https://marketplace.visualstudio.com/
+    * 上方菜单栏->扩展->管理扩展
+  * [ ] VSWorkspace？
+* asp.net web forms网页
+  * 转换HTML为ASP.NET
+    * 把HTML文件的后缀的扩展名改成`.aspx`
+      * HTML文件的后缀为`.htm`、`.html`
+    * [ ] 网页文件放到项目主目录下?
+  * [ ] 目录结构
+  * 修改文件后需要再次发布才能显示更改内容
 * ASP.NET官方文档 https://learn.microsoft.com/zh-cn/aspnet
 * dotnet命令参考 https://learn.microsoft.com/zh-cn/dotnet/core/tools/dotnet
 * ASP.NET Core应用发布
