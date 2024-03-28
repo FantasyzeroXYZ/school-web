@@ -104,6 +104,12 @@
     * Extensions for Visual Studio https://marketplace.visualstudio.com/
     * 上方菜单栏->扩展->管理扩展
   * [ ] VSWorkspace？
+  * 关于vs2022
+    * 切换设计视图到旧版
+      * 工具->选项->web forms设计器->旧版
+  * 在设计器放置控件
+    * 打开工具箱
+      * 视图->工具箱
 * asp.net web forms网页
   * 转换HTML为ASP.NET
     * 把HTML文件的后缀的扩展名改成`.aspx`
@@ -111,6 +117,20 @@
     * [ ] 网页文件放到项目主目录下?
   * [ ] 目录结构
   * 修改文件后需要再次发布才能显示更改内容
+* 作业
+  * 作业二
+    * [ ] https://stackoverflow.com/questions/18981118/http-error-403-14-forbidden-the-web-server-is-configured-to-not-list-the-con
+    * 工具->选项->web forms设计器->旧版
+  * 作业三
+    * ASP.NET后台页面无法识别服务器控件ID
+      * https://blog.csdn.net/WHNorWHC/article/details/115475624
+      * 然后将复制窗体的文件中除顶部外的代码，包括meta、link、style、等以及主体全部复制过来就可以解决这个问题了
+        * 不要覆盖顶部的这一段`<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="UserlnfoPage.aspx.cs" Inherits="Experiment.Ex3.UserlnfoPage" %>`
+    * ASP.NET项目中，无法引用App_Code中的类
+      * 在文件顶部引用App_Code的路径，例如`using Experiment.App_Code;`
+      * 修改类文件的属性
+        * https://blog.csdn.net/crazygolf/article/details/39581493
+        * 将`生成操作`设置成`编译`
 * ASP.NET官方文档 https://learn.microsoft.com/zh-cn/aspnet
 * dotnet命令参考 https://learn.microsoft.com/zh-cn/dotnet/core/tools/dotnet
 * ASP.NET Core应用发布
